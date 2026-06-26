@@ -1,11 +1,9 @@
 # Hi there, I'm Sandeep Katta 👋
 
-🎯 Aspiring Data Analyst | SQL | Python | Power BI | Tableau
-
-📍 Hyderabad, India
-🎓 B.com Computer Application
-📊 Passionate about turning raw data into meaningful insights
-
+🎯 Aspiring Data Analyst | SQL | Python | Power BI | Tableau  
+📍 Hyderabad, India  
+🎓 B.com Computer Application  
+📊 Passionate about turning raw data into meaningful insights  
 ---
 
 ## 🌐 Socials:
