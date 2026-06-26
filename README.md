@@ -16,14 +16,15 @@
 ![](https://streak-stats.demolab.com/?user=Sandyverse30&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Sandyverse30&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Sandyverse30&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+### 🐍 Contribution Snake
+![snake gif](https://github.com/Sandyverse30/Sandyverse30/blob/output/github-contribution-grid-snake-dark.svg)
+
+### 📈 Activity Graph
+[![Sandeep's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sandyverse30&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Sandyverse30&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://komarev.com/ghpvc/?username=Sandyverse30&color=blue)](https://visitcount.itsvg.in)
